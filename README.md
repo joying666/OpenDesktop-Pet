@@ -9,7 +9,7 @@
 <h1 align="center">OpenDesktopPet</h1>
 
 <p align="center">
-  一个基于 Electron + Live2D 的 AI 桌面宠物，支持语音合成、实时截屏感知、摄像头视觉、长期记忆和主动互动。
+  一个 Electron + Live2D 的 AI 桌面宠物，支持语音合成、实时截屏感知、摄像头视觉、长期记忆和主动互动。
 </p>
 
 <p align="center">
